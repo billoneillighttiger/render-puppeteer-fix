@@ -42,7 +42,7 @@
   ],
   "dependencies": {
     "promise-limit": "^2.5.0",
-    "puppeteer": "^1.7.0"
+    "puppeteer": "^9.1.1"
   },
   "deprecated": false,
   "description": "A renderer for @prerenderer/prerenderer that uses puppeteer to prerender pages.",
