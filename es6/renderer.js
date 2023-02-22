@@ -137,7 +137,7 @@ class PuppeteerRenderer {
   }
 
   destroy () {
-    this._puppeteer.close()
+    // this._puppeteer.close()
   }
 }
 
